@@ -9,3 +9,8 @@ code6
 cose7
 >>>>>>> branch1
 code8
+<<<<<<< HEAD
+=======
+code9
+code10
+>>>>>>> master
